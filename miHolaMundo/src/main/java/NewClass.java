@@ -10,5 +10,6 @@
 public class NewClass {
     public static void main(String[] args) {
         System.out.println("Hola Mundo!");
+        System.out.println("Hola soy Pepe en GitHub!");
     }
 }
